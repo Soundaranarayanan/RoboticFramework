@@ -1,0 +1,38 @@
+1747305467905	geckodriver	INFO	Listening on 127.0.0.1:57023
+1747305470998	mozrunner::runner	INFO	Running command: "C:\\Users\\admi\\.cache\\selenium\\firefox\\win64\\138.0.3\\firefox.exe" "--marionette" "--remote-debugging ... 24" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admi\\AppData\\Local\\Temp\\rust_mozprofilekEp2YK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747305471479	Marionette	INFO	Marionette enabled
+1747305471772	Marionette	INFO	Listening on port 57033
+WebDriver BiDi listening on ws://127.0.0.1:57024
+Read port: 57033
+1747305472056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1747305484977	Marionette	INFO	Stopped listening on port 57033
+Dynamically enable window occlusion 1
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309, line 144: Script terminated by timeout at:
+2924/xt/get/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:19443
+Lt@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:20783
+get@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:19431
+_t@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:20486
+St@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:19851
+createResolver@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:80443
+Dt@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:76586
+Rt@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:76401
+_createDescriptors@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:75745
+_descriptors@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:75566
+notify@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:75123
+notifyPlugins@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:94589
+update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:87022
+cn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:83333
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:1:460284
+3736/</setup/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:1:460395
+On@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25848
+Mn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25928
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:37070
+On@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25856
+Qn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:27578
+Qn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:27662
+
