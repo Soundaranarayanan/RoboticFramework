@@ -48,7 +48,6 @@ verify items in Dashboard page
         Append To List    ${actualList}     ${element.text}
     END
     Lists Should Be Equal    ${expectedlist}    ${actualList}
-    
 
 Close Browser Session
     Close Browser
