@@ -1,0 +1,42 @@
+1747305428650	geckodriver	INFO	Listening on 127.0.0.1:56936
+1747305431777	mozrunner::runner	INFO	Running command: "C:\\Users\\admi\\.cache\\selenium\\firefox\\win64\\138.0.3\\firefox.exe" "--marionette" "--remote-debugging ... 37" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admi\\AppData\\Local\\Temp\\rust_mozprofileFrvA1D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747305432244	Marionette	INFO	Marionette enabled
+1747305432540	Marionette	INFO	Listening on port 56946
+WebDriver BiDi listening on ws://127.0.0.1:56937
+Read port: 56946
+1747305432736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1747305443583	Marionette	INFO	Stopped listening on port 56946
+Dynamically enable window occlusion 1
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309, line 138: Script terminated by timeout at:
+_resolveTickFontOptions@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:72032
+_computeLabelSizes@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:62556
+_getLabelSizes@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:62310
+calculateLabelRotation@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:59323
+update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:57316
+Te@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:44979
+update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:46748
+_updateLayout@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:88611
+update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:87399
+1788/cn/this._doResize<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:83163
+2924/Ce/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:144:5371
+_resize@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:84532
+resize@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:84103
+s@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:93486
+bindResponsiveEvents@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:93634
+bindEvents@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:92906
+_initialize@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:83890
+cn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:138:83299
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:1:460284
+3736/</setup/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:1:460395
+On@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25848
+Mn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25928
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:37070
+On@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:25856
+Qn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:27578
+Qn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1721393199309:121:27662
+

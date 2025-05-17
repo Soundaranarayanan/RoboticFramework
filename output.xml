@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.14.0a7 on win32)" generated="2025-05-17T20:57:43.318096" rpa="false" schemaversion="5">
+<suite id="s1" name="SetupandTeardown" source="C:\RobotFrameworkBasics\Test\SetupandTeardown.robot">
+<kw name="Log To Console" owner="BuiltIn" type="SETUP">
+<arg>opening browser</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.372360" elapsed="0.000517"/>
+</kw>
+<test id="s1-t1" name="TC1 Smoke Test" line="9">
+<kw name="Log To Console" owner="BuiltIn" type="SETUP">
+<arg>Login to Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.373682" elapsed="0.000399"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is Smoke Test</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.374470" elapsed="0.000365"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn" type="TEARDOWN">
+<arg>Logout from Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.375265" elapsed="0.000454"/>
+</kw>
+<status status="PASS" start="2025-05-17T20:57:43.373063" elapsed="0.002906"/>
+</test>
+<test id="s1-t2" name="TC2 Regression Test" line="11">
+<kw name="Log To Console" owner="BuiltIn" type="SETUP">
+<arg>Login to Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.378486" elapsed="0.000470"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is Regression test</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.379359" elapsed="0.000413"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn" type="TEARDOWN">
+<arg>Logout from Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.380267" elapsed="0.000436"/>
+</kw>
+<status status="PASS" start="2025-05-17T20:57:43.377595" elapsed="0.003363"/>
+</test>
+<test id="s1-t3" name="TC3 Sanitary Test" line="13">
+<kw name="Log To Console" owner="BuiltIn" type="SETUP">
+<arg>Login to Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.383932" elapsed="0.000531"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is Sanitary Test</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.384912" elapsed="0.000456"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn" type="TEARDOWN">
+<arg>Logout from Application</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.386026" elapsed="0.000378"/>
+</kw>
+<status status="PASS" start="2025-05-17T20:57:43.383197" elapsed="0.003576"/>
+</test>
+<kw name="Log To Console" owner="BuiltIn" type="TEARDOWN">
+<arg>closing browser</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-17T20:57:43.388605" elapsed="0.000623"/>
+</kw>
+<status status="PASS" start="2025-05-17T20:57:43.320324" elapsed="0.069651"/>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="SetupandTeardown" id="s1" pass="3" fail="0" skip="0">SetupandTeardown</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
