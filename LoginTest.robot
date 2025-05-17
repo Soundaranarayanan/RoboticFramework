@@ -17,3 +17,4 @@ Login To OrangeHRM
     Input Text    xpath://input[@placeholder='Username']    Admin
     Input Password    xpath://input[@placeholder='Password']    admin123
     Click Button    xpath://button[@type='submit']
+#click element
